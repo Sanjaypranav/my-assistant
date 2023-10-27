@@ -1,0 +1,12 @@
+langchain-experimental
+langchain 
+openai
+unstructured
+tiktoken
+uvicorn
+fastapi
+requests
+starlette
+pydantic
+python-multipart
+https://github.com/Sayvai-io/custom-tools.git
